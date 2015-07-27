@@ -9,6 +9,10 @@ Manjaro modifications by
 
 Philip Müller <philm@manjaro.org>
 
+Netrunner Rolling modifications by
+
+James Kittsmiller <jameskittsmiller@gmail.com>
+
 
 HOW-TO
 ---------------------------------------------------------------

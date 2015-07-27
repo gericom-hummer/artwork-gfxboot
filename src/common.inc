@@ -697,7 +697,7 @@
 
   syslinux info.type 6 eq and {
     dup .title "Driver Update" put
-    /info.msg "Put the Manjaro Linux media back into the drive." def
+    /info.msg "Put the Netrunner Rolling media back into the drive." def
   } if
 
   dup .text info.msg put
@@ -1491,7 +1491,7 @@ config.livecd {
 /config.key.F11        "key.F11"                     "" gfxconfig.set.str
 /config.key.F12        "key.F12"                     "" gfxconfig.set.str
 
-/config.product        "product"             "Manjaro Linux" gfxconfig.set.str
+/config.product        "product"             "Netrunner Rolling" gfxconfig.set.str
 
 /config.init           "init"                        "" gfxconfig.set.str
 
