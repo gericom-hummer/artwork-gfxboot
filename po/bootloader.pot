@@ -1,6 +1,7 @@
 # LANGUAGE translations for boot loader
 # Copyright (C) 2005 SUSE Linux GmbH
 #               2013 The Chakra Project
+#               2014 Manjaro Linux
 #
 msgid ""
 msgstr ""
@@ -387,7 +388,7 @@ msgid "Live System (GNOME)"
 msgstr ""
 
 #. txt_start
-msgid "Start Manjaro Linux"
+msgid "Start Netrunner Rolling"
 msgstr ""
 
 #. txt_nonfree

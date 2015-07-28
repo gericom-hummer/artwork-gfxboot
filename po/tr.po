@@ -6,8 +6,8 @@
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Manjaro Linux\n"
-"Report-Msgid-Bugs-To: http://bugs.manjaro.org\n"
+"Project-Id-Version: Netrunner Rolling\n"
+"Report-Msgid-Bugs-To: http://forums.netrunner.com\n"
 "PO-Revision-Date: 2013-02-02 17:05+0000\n"
 "Last-Translator: Manuel Tortosa <manutortosa@chakra-project.org>\n"
 "Language-Team: Turkish (http://www.transifex.com/projects/p/chakra-project/language/tr/)\n"
@@ -394,7 +394,7 @@ msgid "Live System (GNOME)"
 msgstr ""
 
 #. txt_start
-msgid "Start Manjaro Linux"
+msgid "Start Netrunner Rolling"
 msgstr ""
 
 #. txt_nonfree

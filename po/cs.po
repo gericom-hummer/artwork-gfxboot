@@ -8,8 +8,8 @@
 # Klara Cihlarova <koty@seznam.cz>, 2004-2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: Manjaro Linux\n"
-"Report-Msgid-Bugs-To: http://bugs.manjaro.org\n"
+"Project-Id-Version: Netrunner Rolling\n"
+"Report-Msgid-Bugs-To: http://forums.netrunner.com\n"
 "PO-Revision-Date: 2013-02-02 17:05+0000\n"
 "Last-Translator: Manuel Tortosa <manutortosa@chakra-project.org>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/chakra-project/language/cs/)\n"
@@ -396,8 +396,8 @@ msgid "Live System (GNOME)"
 msgstr "Live systém (GNOME)"
 
 #. txt_start
-msgid "Start Manjaro Linux"
-msgstr "Spustit Manjaro Linux systém"
+msgid "Start Netrunner Rolling"
+msgstr "Spustit Netrunner Rolling systém"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"

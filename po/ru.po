@@ -9,8 +9,8 @@
 # Serj Volkov <taranarmo@gmail.com>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: Manjaro Linux\n"
-"Report-Msgid-Bugs-To: http://bugs.manjaro.org\n"
+"Project-Id-Version: Netrunner Rolling\n"
+"Report-Msgid-Bugs-To: http://forums.netrunner.com\n"
 "PO-Revision-Date: 2013-02-02 17:05+0000\n"
 "Last-Translator: Manuel Tortosa <manutortosa@chakra-project.org>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/chakra-project/language/ru/)\n"
@@ -397,8 +397,8 @@ msgid "Live System (GNOME)"
 msgstr "Live System (GNOME)"
 
 #. txt_start
-msgid "Start Manjaro Linux"
-msgstr "Запуск Manjaro Linux"
+msgid "Start Netrunner Rolling"
+msgstr "Запуск Netrunner Rolling"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"
